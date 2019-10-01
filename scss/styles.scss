@@ -1,0 +1,9 @@
+$color: red;
+
+body{
+    background: blue;
+
+    h1{
+        color: $color;
+    }
+}

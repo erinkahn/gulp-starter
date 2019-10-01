@@ -1,0 +1,27 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "starter for gulp",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-cli": "^2.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinkahn/gulp-starter.git"
+  },
+  "author": "erin kahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erinkahn/gulp-starter/issues"
+  },
+  "homepage": "https://github.com/erinkahn/gulp-starter#readme"
+}
