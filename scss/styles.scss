@@ -1,9 +1,16 @@
-$color: red;
+@import 'breakpoints';
 
-body{
-    background: blue;
 
-    h1{
-        color: $color;
-    }
+
+// colors
+
+
+//font sizes
+
+
+//fonts
+@font-face {
+  font-family: "Open Sans";
+  src: url("../assets/fonts/") format(""),
+       url("../assets/fonts/") format("");
 }
